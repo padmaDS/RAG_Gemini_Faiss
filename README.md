@@ -7,5 +7,9 @@ This is a simple RAG pipeline that can talk with PDF files and Web pages. The pi
 
 Setting Up the Project
 1. Clone the repo
-~git clone git@github.com:sksoumik/chat-with-doc.git
-cd chat-with-doc
+2. Install Dependencies
+3. Add Gemni Pro API
+4. Run the app
+5. `streamlit run main.py`
+
+  
